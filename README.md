@@ -1,1 +1,1 @@
-# Anime_Flow
+Bu bir anime projesidir.
